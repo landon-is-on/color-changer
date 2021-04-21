@@ -15,5 +15,5 @@ hexColor += hex[getRandomNumber()];
 });
 
 function getRandomNumber() {
-    return Math.floor(math.random() * hex.length)
+    return Math.floor(Math.random() * hex.length);
 }
